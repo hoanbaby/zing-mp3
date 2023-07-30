@@ -4,12 +4,12 @@ import { getAuth } from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-   apiKey: "AIzaSyAe2IUOUKB6UnbAa45JZkP3psHe0zKTpv",
-   authDomain: "d4tmp3-reactjs-7195d.firebaseapp.co",
-   projectId: "d4tmp3-reactjs-7195d",
-   storageBucket: "d4tmp3-reactjs-7195d.appspot.co",
-   messagingSenderId: "27832445908",
-   appId: "1:278324459087:web:cd5aa4d5f1fccd2e149c3",
+  apiKey: "AIzaSyCiX_kaPA_zuyTtPJT8btGsl3Gs4hICZ5o",
+  authDomain: "cozymusic-d215e.firebaseapp.com",
+  projectId: "cozymusic-d215e",
+  storageBucket: "cozymusic-d215e.appspot.com",
+  messagingSenderId: "1023739966310",
+  appId: "1:1023739966310:web:7d2fd06d49a23ba5104ea7",
 }
 
 // Initialize Firebase
