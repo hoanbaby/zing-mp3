@@ -1,2 +1,2 @@
-https://zingcozy.vercel.app/
+https://hoancozy.click
 link web
