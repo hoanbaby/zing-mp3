@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCiX_kaPA_zuyTtPJT8btGsl3Gs4hICZ5o",
+  apiKey: "AIzaSyCiX_kaPA_zuyTtPJT8btGsl3",
   authDomain: "cozymusic-d215e.firebaseapp.com",
   projectId: "cozymusic-d215e",
   storageBucket: "cozymusic-d215e.appspot.com",
